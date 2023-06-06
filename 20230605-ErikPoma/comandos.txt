@@ -1,0 +1,50 @@
+  146  ls
+  147  mv auditoria.xls auditoria/
+  148  cd auditoria/
+  149  ls
+  150  find Nella
+  151  find . -type d -name 'Nella'
+  152  find ~/OneDrive -type d -name 'Nella'
+  153  find ~/Documentos -type d -name 'Nella'
+  154  find ~/Documentos -type d -name 'Nella_Day'
+  155  find ~/Documentos -type d -name "Nella_Day"
+  156  find ~/OneDrive -type d -name "Nella_Day"
+  157  git config user.name
+  158  git config user.email
+  159  git config user.email
+  160  gi config --global user.email erikrogers12@gmail.com
+  161  git config --global user.email erikrogers12@gmail.com
+  162  git config user.name
+  163  git config user.email
+  164  git clone https://github.com/KireSregor/Repositorio_prueba.git
+  165  git init
+  166  mkdir 20230605-ErikPoma
+  167  cd 20230605-ErikPoma/
+  168  touch comandos.txt main.js index.html
+  169  git statuss
+  170  git status
+  171  git add .
+  172  git status
+  173  git commit -m 'commit 01 de ErikPoma'
+  174  git branch -m master main
+  175  git push origin main
+  176  git remote add origin https://github.com/KireSregor/20230605-ErikPoma.git
+  177  git push origin main
+  178  git branch feature
+  179  git branch
+  180  git branch checkout feature
+  181  git branch
+  182  git checkout feature
+  183  git branch -d checkout
+  184  git branch
+  185  mkdir Hardware Software SeguridadInformatica
+  186  touch Hardware/resument.txt SeguridadInformatica/resumen.txt Software/resumen.txt
+  187  git add .
+  188  git status
+  189  git commit -m 'commit 02 de ErikPoma'
+  190  git push origin feature
+  191  git checkout main
+  192  mv main.js resumenHardware.txt
+  193  mv index.html resumenSoftware.txt
+  194  history 50
+  195  history 50 > comandos.txt
